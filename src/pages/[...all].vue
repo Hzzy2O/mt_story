@@ -1,5 +1,3 @@
-<template>
-  <div>
-    Not Found
-  </div>
+<template lang="pug">
+div Not Found
 </template>
