@@ -38,6 +38,7 @@ div(class="not_found_box")
 .not_found::after {
   height: 86px;
   font-size: 152px;
+  font-weight: bold;
   border: 0;
   letter-spacing: 3px;
   line-height: 88px;
