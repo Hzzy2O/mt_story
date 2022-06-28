@@ -14,4 +14,6 @@ const router = createRouter({
   routes,
 })
 app.use(router)
-app.mount('#app')
+setTimeout(() => {
+  app.mount('#app')
+}, 1500)
